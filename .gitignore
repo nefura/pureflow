@@ -1,0 +1,7 @@
+#### golang ####
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
